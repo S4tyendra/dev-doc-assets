@@ -38,6 +38,6 @@ greet('World');
 
 ## Images
 
-![Sample Image](https://placekitten.com/300/200)
+![Sample Image](/images/Advantages-of-Linux.png)
 
 Feel free to use this content to test the Markdown rendering in your application! If you have any specific requirements or need more examples, let me know.
