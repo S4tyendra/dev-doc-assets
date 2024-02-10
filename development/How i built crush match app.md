@@ -8,4 +8,6 @@ prerequesits:
 
  Process:
 1. create a new firebase app in [] as below
+
+
    [!firebase app creation](images/firebase-app-creation.png)
