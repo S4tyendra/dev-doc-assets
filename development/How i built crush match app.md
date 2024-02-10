@@ -7,7 +7,5 @@ prerequesits:
 2. install firebase cli and setup - [Guide]
 
  Process:
-1. create a new firebase app in [] as below
-
-
-   [!firebase app creation](images/firebase-app-creation.png)
+1. create a new firebase app in [Firebase console](https://console.firebase.google.com/) as below
+![firebase app creation](/images/firebase-app-creation.png)
